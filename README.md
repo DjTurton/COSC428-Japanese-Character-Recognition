@@ -1,0 +1,1 @@
+COSC428 Japanese Character Recognition
